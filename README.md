@@ -1,4 +1,4 @@
-# Python; Base Converter Program:
+# Python; Base Converter Program
 
 Specified below is a program that takes a base input, a number to change, and a desired base.
 
