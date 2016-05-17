@@ -1,5 +1,5 @@
 base1 = int(raw_input("What base are you working in:"))
-n_to_change = int(raw_input("Number to change:"),base1)
+n_to_change = int(str(raw_input("Number to change:")),base1)
 base2 = int(raw_input("What base do you want to convert to:"))
 
 def baseto10(number,base):
@@ -28,7 +28,6 @@ def baseconverter(number,n5):
         return digitcon(m,n5)
 
 print "The new number is:",baseconverter(base10,base2)
-
 
 
 
