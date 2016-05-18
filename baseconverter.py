@@ -1,5 +1,4 @@
 # Base Converter Program - Converts from any desired base to any base ranging from 2-64
-# Developed by Nora Rooney, Robert Brodin, and Robert Mennino
 
 # Below are the three main variables for the code, the number to change, the original base the number you are converting is in, and the base you would like to convert to.
 
