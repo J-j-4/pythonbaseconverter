@@ -4,6 +4,6 @@ Specified below is a program that takes a base input, a number to change, and a 
 
 Using built in functions and some mathematics, this program is made to be simple and convient, so numbers can be converted with ease.
 
-Note: This is still in development, so there are bugs and they will be squashed by my sole, literally and physically.
+This program is finished for now, I may add up to base 64 in the future.
 
 ~ rbrodin
